@@ -17,5 +17,9 @@ It performs basic arithmetic operations with a clean user interface.
 - **CSS** → Styling
 - **JavaScript** → Functionality
 
+---
 
-## Project Structure
+##  How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/charithaa-codes/CodeAlpha_Calculator.git
